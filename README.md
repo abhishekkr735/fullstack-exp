@@ -1,3 +1,13 @@
+# Fullstack Experiment
+
+## Description
+This project is a React-based web application deployed using Netlify.
+
+## Learning Outcomes
+- Learned React project structure
+- Learned how to deploy using Netlify
+- Learned GitHub integration
+- Learned basic frontend development
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
